@@ -1,0 +1,36 @@
+:root {
+    --botão: #5cd85a;
+    --background: #08313a;
+    --texto: #f4fffc;
+}
+
+.container {
+    background-color: #107869;
+    border-radius: 20px;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+body{
+    background-color: #08313a;
+}
+
+
+
+h1, li {
+    color: #f4fffc;
+    padding: 10px;
+}
+
+input{
+    margin: 10px;
+}
+
+button {
+    background-color: #5cd85a;
+    color: #08313a;
+    border-radius: 5px;
+    height: 25px;
+}
